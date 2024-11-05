@@ -19,3 +19,11 @@ The data used is LITA Capstone Dataset.xslx and was provided on the LMS portal b
 The following actions were performed before the data was worked on for analysis and visualization:
 1. Data loading and inspection
 2. Removal of duplicates
+
+### Exploratory Data Analysis
+The data was explored to answer questions like:
+- Top-selling products
+- Regional performance
+- Monthly sales trends
+
+### Data Analysis
