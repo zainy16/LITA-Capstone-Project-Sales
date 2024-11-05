@@ -34,3 +34,4 @@ The data was explored to answer questions like:
 - products with no sales in the last quarter.
 
 ### Data Analysis
+Listed below are the queries I used in answering the questions:
