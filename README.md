@@ -11,4 +11,11 @@ The data used is LITA Capstone Dataset.xslx and was provided on the LMS portal b
 
 ### Tools Used
 - Microsoft Excel- Data Cleaning and Analysis
-- SQL(Structured Query Language)- 
+- SQL(Structured Query Language)- Data Querying
+- Microsoft PowerBI- Data Visualization
+- Github- Documentation and Portfolio Building
+
+### Data Cleaning and Preparations
+The following actions were performed before the data was worked on for analysis and visualization:
+1. Data loading and inspection
+2. Removal of duplicates
