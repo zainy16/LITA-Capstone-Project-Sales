@@ -22,8 +22,15 @@ The following actions were performed before the data was worked on for analysis 
 
 ### Exploratory Data Analysis
 The data was explored to answer questions like:
-- Top-selling products
-- Regional performance
-- Monthly sales trends
+- average sales per product.
+- total revenue by region.
+- the total sales for each product category.
+- the number of sales transactions in each region.
+- the highest-selling product by total sales value.
+- total revenue per product.
+- monthly sales totals for the current year.
+- the top 5 customers by total purchase amount.
+- the percentage of total sales contributed by each region.
+- products with no sales in the last quarter.
 
 ### Data Analysis
