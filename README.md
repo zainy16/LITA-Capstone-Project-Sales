@@ -89,6 +89,3 @@ having sum(sales) = 0
 ```
 
 ### Data Visualization
-
-![Sales Excel](https://github.com/user-attachments/assets/50d83bff-50b7-46d4-bca3-1b11b493c375)
-
