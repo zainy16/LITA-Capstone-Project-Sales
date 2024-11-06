@@ -52,8 +52,43 @@ The data was explored to answer questions like:
 ### Data Analysis
 Listed below are the queries I used in answering the questions:
 
+```SQL
+select [product], sum(sales) as TotalSales from SalesData
+group by [product] 
+order by 2 desc
+
+select region, COUNT(sales) as Amount_of_Sales from SalesData
+group by region 
+order by 2 desc
+
+select top(1) [product], SUM(sales) as TotalSales from SalesData
+group by [product] 
+order by 2 desc
+
+select [product], SUM(sales) as TotalRevenue from SalesData
+group by [product] 
+order by 2 desc
+
+select month(orderdate) as Months, sum(sales) as Total_MonthlySales from SalesData
+where OrderDate between '2024-01-31' and '2024-12-31'
+group by month(OrderDate)
+order by 1asc
+
+select top (5) Customer_Id, sum(sales) from SalesData
+group by Customer_Id
+order by 1desc
+
+select region, sum(sales) as Region_Sales, sum(sales) * 100.0 / sum(sum(sales)) over () as Percentage
+from SalesData
+group by region 
+order by 2 desc
+
+select [Product] from SalesData where OrderDate between '2024-06-01' and '2024-08-31'
+group by [Product]
+having sum(sales) = 0
+```
+
 ### Data Visualization
 
-![Sales Excel](https://github.com/user-attachments/assets/e75001d1-0552-4067-a3ee-52059733ebeb)
+![Sales Excel](https://github.com/user-attachments/assets/50d83bff-50b7-46d4-bca3-1b11b493c375)
 
-![Sales BI](https://github.com/user-attachments/assets/8f6d88ac-696f-4f10-8725-2157e0dbd3f0)
