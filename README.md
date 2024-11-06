@@ -53,3 +53,7 @@ The data was explored to answer questions like:
 Listed below are the queries I used in answering the questions:
 
 ### Data Visualization
+
+![Sales Excel](https://github.com/user-attachments/assets/e75001d1-0552-4067-a3ee-52059733ebeb)
+
+![Sales BI](https://github.com/user-attachments/assets/8f6d88ac-696f-4f10-8725-2157e0dbd3f0)
