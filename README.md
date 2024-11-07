@@ -20,7 +20,7 @@ This shows one of the two final projects I worked on while undergoing the Ladies
 ### Project Title: Sales Data Analysis
 
 ### Project Overview
-The aim of this project is to analyze the sales performance of a retail store for the past two years. The data was explored to unveil insights that would help in better decision-making.
+The aim of this project is to analyze the sales performance of a retail store for the last two years. The data was explored to unveil insights that would help in better decision-making.
 
 ### Data Sources
 The data used is LITA Capstone Dataset.xslx and was provided on the LMS portal by the tutors.
@@ -89,3 +89,41 @@ having sum(sales) = 0
 ```
 
 ### Data Visualization
+Here are the tables and dashboards from Microsoft Excel and Microsoft PowerBI:
+|Products|Total Sales|
+|--------|-----------|
+|Shoes|613,380|
+|Shirt|485,600|
+|Hat|316,195|
+|Gloves|296,900|
+|Jacket|208,230|
+|Socks|180,785|
+|Grand Total|2,101,090|
+
+|Region|Total Sales|
+|------|-----------|
+|South|927,820|
+|East|485,925|
+|North|387,000|
+|West|300,345|
+|Grand Total|2,101,090|
+
+|Months|Total Sales|
+|------|-----------|
+|Jan|248,000|
+|Feb|546,300|
+|Mar|107,175|
+|Apr|46,865|
+|May|104,280|
+|Jun|247,600|
+|Jul|274,800|
+|Aug|204,180|
+|Sep|34,720|
+|Oct|133,920|
+|Nov|103,950|
+|Dec|49,300|
+|Grand Total|2,101,090|
+
+![Sales Excel](https://github.com/user-attachments/assets/f6f9ecf4-7d8f-43d9-8266-0253d4aee373)
+
+![Sales BI](https://github.com/user-attachments/assets/850f0f83-1ab2-4086-85ac-48aaaf57df68)
