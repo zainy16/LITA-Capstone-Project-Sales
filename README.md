@@ -126,4 +126,4 @@ Here are the tables and dashboards from Microsoft Excel and Microsoft PowerBI:
 
 ![Sales Excel](https://github.com/user-attachments/assets/f6f9ecf4-7d8f-43d9-8266-0253d4aee373)
 
-![Sales BI](https://github.com/user-attachments/assets/850f0f83-1ab2-4086-85ac-48aaaf57df68)
+<img width="579" alt="New Sales BI" src="https://github.com/user-attachments/assets/ee43d093-45fa-4491-bf62-cb1f4d16dfab" />
